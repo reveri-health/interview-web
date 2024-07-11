@@ -27,6 +27,5 @@ We want you to create a website as close as possible to the one that can be find
 1. Clone the repository running `git clone git@github.com:reveri-health/interview-web.git`.
 2. Make sure you have [yarn](https://yarnpkg.com/getting-started/install) installed.
 3. Install the project dependencies with `yarn install`.
-4. Start the dev server with `yarn dev`.
-5. Start the development server with `yarn dev`.
-6. Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+4. Start the development server with `yarn dev`.
+5. Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
